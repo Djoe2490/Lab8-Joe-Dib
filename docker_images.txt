@@ -1,0 +1,3 @@
+REPOSITORY           TAG             IMAGE ID       CREATED              SIZE
+jjd17/lab8-joe-dib   0.0.1-RELEASE   61b931e544a9   27 seconds ago       92.6MB
+jjd17/lab8-joe-dib   0.0.2-RELEASE   3cc1d4be9a31   About a minute ago   92.6MB

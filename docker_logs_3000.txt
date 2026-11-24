@@ -1,0 +1,2 @@
+ * Serving Flask app 'app_get_names'
+ * Debug mode: off
